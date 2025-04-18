@@ -91,9 +91,9 @@ Efficient Channel Attention (ECA) highlights the most informative channels in fe
 ---
 
 ## 👩‍💻 Team
-- **Samridhi Raj Sinha** (70012200053)
-- **Asmi Parikh** (70102100051)
-- **Saakshi Jain** (70102100084)
+- **Samridhi Raj Sinha**
+- **Asmi Parikh**
+- **Saakshi Jain**
 - **Mentors**: Dr. Shubha Puthran & Dr. Supriya Agarwal
 
 ---
