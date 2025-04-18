@@ -10,6 +10,7 @@ Traditional exam monitoring is prone to human error, especially in large exam ha
 
 ---
 
+
 ## 🚀 Features
 - Offline functionality: No internet needed during detection
 - Multiple deep learning models evaluated and compared
@@ -65,7 +66,7 @@ Efficient Channel Attention (ECA) highlights the most informative channels in fe
 - Bounding boxes around suspicious behaviors
 - Class labels like “cheating” or “non-cheating”
 - Confusion matrix, precision-recall curves
-- 
+<img width="1440" alt="Screenshot 2025-04-18 at 1 08 42 PM" src="https://github.com/user-attachments/assets/69df0ed5-3e0a-4ca1-956d-90ed853fa3a7" />
 <img width="1440" alt="Screenshot 2025-04-18 at 1 05 03 PM" src="https://github.com/user-attachments/assets/8c45556d-f8ec-4924-9516-bf9e12ebe6aa" />
 <img width="1438" alt="Screenshot 2025-04-18 at 1 05 18 PM" src="https://github.com/user-attachments/assets/51ba43f8-51aa-4a98-b0be-8a0767974c10" />
 <img width="1440" alt="Screenshot 2025-04-18 at 1 05 34 PM" src="https://github.com/user-attachments/assets/7cdb7584-709d-4f25-b712-dd6361c1b169" />
